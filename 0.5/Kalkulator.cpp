@@ -33,6 +33,5 @@ int main(){
 		cout<<"Pilihan tidak tersedia"<<endl;
 	}
 
-	cin.get();
 	return 0;
 }
