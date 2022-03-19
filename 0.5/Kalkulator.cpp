@@ -32,6 +32,7 @@ int main(){
 	else{
 		cout<<"Pilihan tidak tersedia"<<endl;
 	}
-
+	
+	cin.get();
 	return 0;
 }
